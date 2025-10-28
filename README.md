@@ -1,2 +1,7 @@
-# Translation-of-TSN-Protocol
-Translate the original English version of the TSN protocol into Chinese, organize it in Markdown format, and then export it as a PDF
+# TSN协议翻译
+将英文版本的TSN协议原文翻译成中文，以md的格式整理并重新导出为PDF
+
+# 历程
+
+## 802.1 AS2020
+2025/10/28 提交初始版本的翻译
